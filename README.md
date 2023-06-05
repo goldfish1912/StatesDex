@@ -1,0 +1,2 @@
+# StatesDex
+StatesDex Discord Bot
